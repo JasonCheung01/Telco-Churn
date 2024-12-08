@@ -1,4 +1,4 @@
-# Final Project : Telcos Churn Prediction
+# Final Project : Telcos Customer Churn Prediction
 This project was conducted by a group of students from COMS 4995: Applied Machine Learning at Columbia University.
 
 # Project Description
